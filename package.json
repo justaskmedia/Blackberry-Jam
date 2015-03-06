@@ -20,6 +20,10 @@
     "main-bower-files": "~2.5.0",
     "gulp-concat": "~2.5.2",
     "gulp-uglify": "~1.1.0",
-    "gulp-file-include": "~0.8.0"
+    "gulp-file-include": "~0.8.0",
+    "gulp-order": "~1.1.1"
+  },
+  "dependencies": {
+    "gulp-uglifycss": "~1.0.4"
   }
 }
