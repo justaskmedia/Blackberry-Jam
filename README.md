@@ -5,15 +5,15 @@ Blackberry Jam is the follow up to <a href="https://github.com/justaskmedia/rasp
 
 <h2>Getting Started</h2>
 
-If you haven't already, install Gulp. You need to do it globally first. Open up terminal and run the following code.
+If you haven't already, install Gulp. You need to do it globally. Open up terminal and run the following code.
 
 <pre>npm install -g gulp</pre>
 
-Once that has finished installing, you'll need to install Gulp for the project. This is something you'll need to do for every project. You can do this by running:
+Once that has finished installing, you need to install the packages included in this framework. To do this run:
 
-<pre>npm install --save-dev gulp</pre>
+<pre>npm install</pre>
 
-Once that has finished installing, you're good to go. Run the command <pre>gulp</pre> and you're good to go.
+Run the command <pre>gulp</pre> and you're good to go.
 
 <h2>Sass</h2>
 
