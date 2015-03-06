@@ -1,0 +1,20 @@
+{
+  "name": "blackberry-jam",
+  "version": "0.0.1",
+  "authors": [
+    "Andrew Kelly <akelly@justaskmedia.ca>"
+  ],
+  "description": "The starter kit for all projects.",
+  "license": "MIT",
+  "homepage": "http://andrewkelly.ca",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
