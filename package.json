@@ -16,8 +16,7 @@
     }
   },
   "devDependencies": {
-    "browser-sync": "~0.8s.2",
-    "browserify": "~3.36.0",
+    "browser-sync": "~2.2.2",
     "gulp-changed": "~0.3.0",
     "gulp-imagemin": "~0.1.5",
     "gulp-notify": "~1.2.4",
