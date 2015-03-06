@@ -2,11 +2,6 @@
   "name": "blackberry-jam",
   "version": "0.1.1",
   "description": "The new version of the jam functionality",
-  "browserify": {
-    "transform": [
-      "hbsfy"
-    ]
-  },
   "devDependencies": {
     "browser-sync": "~2.2.2",
     "gulp-changed": "~0.3.0",
