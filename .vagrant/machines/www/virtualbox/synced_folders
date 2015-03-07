@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"owner":"www-data","group":"www-data","guestpath":"/var/www","hostpath":"/Users/andrewkelly/Documents/Projects/blackberry-jam/working-build/build","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/andrewkelly/Documents/Projects/blackberry-jam/working-build","disabled":false}}}
