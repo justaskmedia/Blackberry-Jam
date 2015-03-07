@@ -9,9 +9,9 @@
         <title>Home Page</title>
         <meta name="description" content="">
         <meta content='width=device-width, initial-scale=1.0' name='viewport'>
-        <link rel="stylesheet" href="assets/css/main.css">
+        <link rel="stylesheet" href="assets/css/main.min.css">
 
-    </head> 
+    </head>
     <body>
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
@@ -20,9 +20,11 @@
 
 <section class="hero">
 	<div class="container">
-		<h1>Closer to what you want</h1>
-		<h2>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique a dolorem doloribus. Doloribus quis consequatur labore, excepturi aliquam illo alias ipsam, accusamus aut possimus minima obcaecati quidem fugit adipisci ipsum?</h2>
-		<a href="">Enter Now</a>
+		<h1>Lorem Ipsum</h1>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique a dolorem doloribus. Doloribus quis consequatur labore, excepturi aliquam illo alias ipsam, accusamus aut possimus minima obcaecati quidem fugit adipisci ipsum?</p>
+		<p>
+			<a href="" class="btn">Enter Now to Win if you like Bananas</a>
+		</p>
 		<img src="assets/images/filler.png" alt="">
 	</div>
 </section>

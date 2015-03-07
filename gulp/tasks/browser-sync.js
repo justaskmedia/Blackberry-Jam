@@ -4,14 +4,18 @@ var browserSync = require('browser-sync'),
 gulp.task('browser-sync', function () {
    var files = [
      // 'templates/**/*',
-      'assets/dev/sass/**/*.scss',
-      'assets/dev/img/**/*.png',
-      'assets/dev/js/**/*.js'
+      'assets/sass/**/*.scss',
+      'assets/images/**/*',
+      'assets/js/**/*.js'
    ];
 
-   browserSync.init(files, {
-      server: {
-         baseDir: './build/'
-      }
-   });
+   browserSync({
+        proxy: "blackberry.jam",
+    });
+
+   // browserSync.init(files, {
+   //    server: {
+   //       baseDir: './build/'
+   //    }
+   // });
 });

@@ -4,7 +4,7 @@ var gulp = require("gulp"),
 
 
 gulp.task('copy', function() {
-	return gulp.src('templates/*.html')
+	return gulp.src('templates/*.php')
 		 .pipe(fileinclude({
 	      prefix: '@@',
 	      basepath: '@file'
